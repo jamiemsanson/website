@@ -1,9 +1,0 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title>Hello world</title>
-</head>
-<body>
-<h1>this is a practice page for github</h1>
-</body>
-</html>
